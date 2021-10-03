@@ -1,0 +1,16 @@
+{
+    "name": "youtube-channel-manager",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "Damian Sire <damiansire@hotmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "@electron-forge/cli": "^6.0.0-beta.61",
+        "electron": "^15.1.0"
+    }
+}
